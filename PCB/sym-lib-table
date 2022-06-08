@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pcb_dang)(type Legacy)(uri ${KIPRJMOD}/pcb_dang.lib)(options "")(descr ""))
+  (lib (name pcb_dang-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb_dang-rescue.lib)(options "")(descr ""))
+)

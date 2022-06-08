@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pcb_dang)(type KiCad)(uri ${KIPRJMOD}/pcb_dang.pretty)(options "")(descr ""))
+)

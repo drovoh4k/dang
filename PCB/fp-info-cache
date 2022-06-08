@@ -1,0 +1,57 @@
+13229479831814
+pcb_dang
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+pcb_dang
+ESP-01
+Module, ESP-8266, ESP-01, 8 pin
+Module ESP-8266 ESP8266
+0
+8
+8
+pcb_dang
+L1RXGRN1000000000
+L1RX-GRN1000000000-1
+LED
+0
+2
+2
+pcb_dang
+L1RXRED1000000000
+L1RX-RED1000000000-3
+LED
+0
+2
+2
+pcb_dang
+LD1117V33
+TO-220 (dual gauge) height 4.60
+Integrated Circuit
+0
+3
+3
+pcb_dang
+PN532
+
+
+0
+12
+10
+pcb_dang
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+pcb_dang
+SSD1306
+
+
+0
+4
+4

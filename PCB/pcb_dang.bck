@@ -1,0 +1,42 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP D
+D High Power LEDs - Single Color 620-630nm LUXEON RUBIX
+$ENDCMP
+#
+$CMP L1RX-GRN1000000000
+D High Power LEDs - Single Colour 520-535nm LUXEON RUBIX
+F https://www.mouser.com/datasheet/2/602/phll_s_a0011253099_1-2288596.pdf
+$ENDCMP
+#
+$CMP L1RX-RED1000000000
+D High Power LEDs - Single Color 620-630nm LUXEON RUBIX
+$ENDCMP
+#
+$CMP LD1117V33
+D 800mA,3.3V,LDO Voltage Reg.,LD1117V33 STMicroelectronics LD1117V33, LDO Voltage Regulator, 1.3A, 3.3 V +/-1%, 3-Pin TO-220
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LED
+D High Power LEDs - Single Color 620-630nm LUXEON RUBIX
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP SSD1306
+D SSD1306 OLED
+K SSD1306
+$ENDCMP
+#
+#End Doc Library
