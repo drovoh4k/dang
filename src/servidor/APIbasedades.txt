@@ -1,0 +1,38 @@
+
+Instrucctions connexió a servidor
+=================================
+
+###############Instruccions:
+## carregausuaris() - crea taula amb usuaris
+## eliminataula()   - elimina taula
+## exit()           - tanca de manera segura
+
+## ckid(id)         - comprova existència de ID
+## eaul(id,aula)    - estudiant entra aula
+## saul(id)         - estudiant surt d'aula
+
+## dper(id,permis)  - dona permís a estudiant
+## tper(id)         - treu permís a estudiant
+## ckpe(id,permis)  - comprova permís d'estudiant per màquina
+
+## ocup(aula)       - retorna ocupació d'aula
+## cnom(id)         - retorna nom de ID
+## dspl()           - retorna taula completa
+
+
+S'ha d'enviar el nom de la funció a l'adreça i port. Els arguments han d'estar separats per '-'.
+p.e.
+dper-1000-fressadora
+carregausuaris
+ocup-3.8
+
+
+test:
+servidor:
+python3 tcpserver.py
+
+client:
+nc localhost 10025
+
+localhost -> ip del servidor
+comprovar a tcpserver.py el port
